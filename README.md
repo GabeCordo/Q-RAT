@@ -2,8 +2,8 @@
 
 	Please be advised, this repo is currently under development
 	
-## Q
-Q is a Remote-Access-Tool for controlling, monitoring or zombifying a target machine. Developed for educational purposes in the c language, it is intended for windows-machines controlled by unix servers. The software developed was a result of combining and putting into practice content learned within this [course](https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/) and the application of pre-known concepts to develop the backdoor.
+## Stephenson
+Stephenson is a Remote-Access-Tool for controlling, monitoring or zombifying a target machine. Developed for educational purposes in the c language, it is intended for windows-machines controlled by unix servers. The software developed was a result of combining and putting into practice content learned within this [course](https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/) and the application of pre-known concepts to develop the backdoor.
 
 ---
 
